@@ -1,1 +1,0 @@
-# leart_git
